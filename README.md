@@ -39,7 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-
+&hairsp
 ### Toolkit for:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=45&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around...&hearts;)
 <!-- Language section -->
