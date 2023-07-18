@@ -41,7 +41,7 @@
 <!--h1 without bottom border-->
 
 ### Toolkit for:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=true&vCenter=true&width=550&height=55&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around..&hearts;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=false&width=550&height=55&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around..&hearts;)
 
 
 <!-- Language section -->
