@@ -46,7 +46,7 @@
 ### Toolkit for:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=43&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around...&hearts;)
 <!-- Language section -->
-* <h3 align="left" style="margin-top: -10;">Languages:</h3>
+* <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,js,java,html,css,java,ts,c,go&perline=10" />
