@@ -25,7 +25,7 @@
 
 - 🌱 I’m learning more about **Federated Deep Learning, Streaming Algorithms, and Combinatorics.**
 
-- 🎓 Pursuing B.S.E. in Computer Science at **Princeton University** with a GPA of **3.97/4.0.**
+- 🎓 Pursuing a B.S.E. in Computer Science at **Princeton University** with a GPA of **3.97/4.0.**
 
 - 📝 You can find my projects on [GitHub](https://github.com/devs-cs)
 
