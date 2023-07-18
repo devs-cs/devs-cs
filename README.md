@@ -69,11 +69,9 @@
 
 <!--horizontal divider(gradiant)-->
 ----
-
-
 <!-- Message -->
 <div align="center">
-  <p style="font-size: 30px;">Feel free to check out my work through my organizations, add to any of  my personal projects, or get in touch if you are looking for a (hopefully) interesting conversation on modern ML.
+  <p style="font-size: 35px;">Feel free to check out my work through my organizations, add to any of  my personal projects, or get in touch if you are looking for a (hopefully) interesting conversation on modern ML.
   </p>
 </div>
 
