@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate about Machine Learning and Software Development</h2></summary>
+    <summary><h2 style="display: inline-block">Studying Machine Learning and Software Development</h2></summary>
   </ul>
 </div>
 
@@ -39,13 +39,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<style>
-  @media (max-width: 600px) {
-    #user-content-toc p {
-      font-size: 20px;
-    }
-  }
-</style>
 
 <div id="user-content-toc">
   <ul align="left">
