@@ -40,7 +40,7 @@
 
 <!--h1 without bottom border-->
 ### Toolkit for:
-
+&nbsp;
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=35&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around...&hearts;)
   <!-- Language section -->
 * <h3 align="left">Languages:</h3>
