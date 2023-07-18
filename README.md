@@ -43,7 +43,7 @@
 
 
 
-### <p style="margin-bottom: 0>"Toolkit for: </p>
+### Toolkit for:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=43&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around...&hearts;)
 <!-- Language section -->
 * <h3 align="left">Languages:</h3>
