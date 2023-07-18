@@ -45,7 +45,7 @@
 
 
 <!-- Language section -->
-<h3 align="left">Languages:</h3>
+* <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,js,java,html,css,java,ts,c,go&perline=10" />
@@ -53,7 +53,7 @@
 </p>
 
 <!-- Framework section -->
-<h3 align="left">Frameworks:</h3>
+* <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react,nextjs,express,nodejs,django,bootstrap&perline=10" />
@@ -61,7 +61,7 @@
 </p>
 
 <!-- Services section -->
-<h3 align="left">Services:</h3>
+* <h3 align="left">Services:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,discord,docker,figma,firebase,github,idea,linux,mongodb,mysql,postman,vscode&perline=15" />
