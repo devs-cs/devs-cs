@@ -40,15 +40,9 @@
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="left">
-<div style="display: flex; align-items: center;">
-    <p style="font-family: 'Times New Roman'; font-size: 35px; margin-right: 10px;margin-top: 6px">Toolkit for:</p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=35&lines=Machine Learning;Software Design;Competitive Programming; Messing Around..&hearts;">
-</div>
-</p>
-  </ul>
-</div
+### Toolkit for:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=35&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around..&hearts;)
+
 
 <!-- Language section -->
 <h3 align="left">Languages:</h3>
