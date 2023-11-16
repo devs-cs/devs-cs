@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **NLP, Computer Vision, Algorithm Design, or cool puzzles**
 
-- 📫 Feel free to reach me at **devan0795@gmail.com**
+- 📫 Feel free to reach me at **devanshah1@acm.org**
 
 - 👥 Connect with me on [LinkedIn](https://linkedin.com/in/devan-j-shah)
 <!--Intro end-->
