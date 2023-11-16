@@ -54,7 +54,7 @@
 * <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react,nextjs,express,nodejs,django,bootstrap&perline=10" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react,nextjs,express,nodejs,django,bootstrap,flask&perline=10" />
   </a>
 </p>
 
