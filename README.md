@@ -21,7 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working as a **Deep Learning Researcher at an NSF REU and Backend Developer & ML Intern at Ticket Wallet.**
+- 🔭 I’m currently working as a **Machine Learning Engineer at TikTok.**
 
 - 🌱 I’m learning more about **Federated Deep Learning, Streaming Algorithms, and Combinatorics.**
 
